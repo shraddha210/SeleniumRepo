@@ -1,0 +1,49 @@
+Return-Path: <shraddha.savant@figmd.com>
+Received: from 127.0.0.1 (ZixVPM [127.0.0.1])
+	by Outbound.zh-gw.zixsmbhosted.com (Proprietary) with SMTP id 8A8EC61E3D
+	for <kavita.jadhav@figmd.in>; Fri, 27 Sep 2019 03:51:26 -0500 (CDT)
+Received: from encrouter02.b.smb.prod.dallas.zixnet.com (encrouter02.b.smb.prod.dallas.zixnet.com [10.154.130.32])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by zh-gw.zixsmbhosted.com (Proprietary) with ESMTPS id 2080E61E09
+	for <kavita.jadhav@figmd.in>; Fri, 27 Sep 2019 03:51:25 -0500 (CDT)
+Received: from mail-io1-f70.google.com (mail-io1-f70.google.com [209.85.166.70])
+	by encrouter02.b.smb.prod.dallas.zixnet.com (Postfix) with ESMTPS id 853AC784
+	for <kavita.jadhav@figmd.in>; Fri, 27 Sep 2019 03:51:20 -0500 (CDT)
+Received: by mail-io1-f70.google.com with SMTP id u18so11012972ioc.4
+        for <kavita.jadhav@figmd.in>; Fri, 27 Sep 2019 01:51:20 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=Fe2T5E1pB4h7xtJJDFrL5Hru5MU3DdT2w95vNHcNBmY=;
+        b=fbwApQw/ZEEttOH9SH/wc9rveFg+PcrxWZcJvubQ9bicQ+sTQoTMGbImR70qmNboDD
+         xfc5WvITpyc+wZRCZHvW/S4UEdjWEJ1nb3enjcD+KB1VMmBywVPhCU8NJM1OCcUNh/oa
+         qygzmzOnMUpysZz2VbLQKpDfS5cSgt6mrqm40HP+lTyOoHAg6VVNsaZDkcr7s3+oLmCJ
+         RAjWz/6ly0fqVQc0nx1r805D0JGP2UJgOaOf/gAHHYVw9LrDJ9FSVqqOTm+YG8tM8Na/
+         X2deMGJefn3a+pmR15wWQqiJc7mWySzhnhD/82acloQGEv6caRv9o8FhkLP48wcqvsvv
+         YHrw==
+X-Gm-Message-State: APjAAAXxtI9GKyxPCzpQXRyyUl7xKtU8HATI3HGxopRQz+CSU3PoG0Oo
+	mlErARzcHMm8LZv77/wc5IL81eHj2+A5APOrDJdicUCb906AJmsbyStxRRa3NShOaZeszoLc9J1
+	zm29JCpLj1dvprTblbpd7ag73AfJTjTRW7J8457TQJRCPqc0vGPtgMYX6
+X-Received: by 2002:a6b:5907:: with SMTP id n7mr7530209iob.145.1569574279789;
+        Fri, 27 Sep 2019 01:51:19 -0700 (PDT)
+X-Google-Smtp-Source: APXvYqxNJk74Q9Agj+hYaEP27Mqau3dYZCf+oeB7eJs11BdN4bthp6mCGVCqr+3hUjdc2xNGbMkXgDAbU7nu6fVr8Dg=
+X-Received: by 2002:a6b:5907:: with SMTP id n7mr7530190iob.145.1569574279327;
+ Fri, 27 Sep 2019 01:51:19 -0700 (PDT)
+MIME-Version: 1.0
+References: <CAKn3tmxE8uSXeDDJigA52Z4=sr4EVRqi8oEnsKg8WJDZ9nxqUA@mail.gmail.com>
+ <CAKn3tmzJT=HRSJjHxsLo9Aa4jnfqH6676-gOyT_S4e4crUGrkw@mail.gmail.com> <CAJbOabpCsFiEc65_LDDAtzu8NUxoJEupNUVu6PBS+6Pi_BgJgA@mail.gmail.com>
+In-Reply-To: <CAJbOabpCsFiEc65_LDDAtzu8NUxoJEupNUVu6PBS+6Pi_BgJgA@mail.gmail.com>
+From: Shraddha Savant <shraddha.savant@figmd.com>
+Date: Fri, 27 Sep 2019 14:20:59 +0530
+Message-ID: <CALcqHzPtA4OoSENp8bUDFo0B8=nmid1jsmCUpeXdYGfcLqis1g@mail.gmail.com>
+Subject: Fwd: Start Setting Your Goals Right
+To: kavita.jadhav@figmd.in
+Content-Type: multipart/mixed; boundary="0000000000005eeb08059384fd21"
+X-ZIXHOSTED-CUSTOMER: fig60133
+X-VPM-MSG-ID: fdc37ecf-090c-47b7-b51e-326569b1e78b
+X-VPM-HOST: zgw-fig60133.b.smb.prod.dallas.zixnet.com
+X-VPM-GROUP-ID: 32f74da5-a23c-4a89-8b00-71dedb813463
+X-VPM-ENC-REGIME: Plaintext
+X-VPM-IS-HYBRID: 0
